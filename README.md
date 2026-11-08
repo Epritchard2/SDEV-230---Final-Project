@@ -32,3 +32,25 @@ Then run the program in PowerShell:
 
 As I continue working on the project, I plan to add more classes for transactions and budget categories. I also want users to be able to enter expenses and track how much money they have remaining in each category. I eventually want a graphical user interface as well as permanent storage data.
 
+## Development Log
+
+November 8, 2026 - Initial Setup
+
+Created the GitHub repository and started the C++ project in Visual Studio Code.
+
+Created a basic console menu for navigating the application.
+
+Added the ability to enter monthly income.
+
+Added calculations for the 50/30/20 budgeting method.
+
+Created the Account class using separate header and implementation files.
+
+Added basic input validation to prevent negative income values.
+
+Tested the application to make sure the menu and budget calculations work correctly.
+
+## Future Updates
+
+Additional updates will be documented here as I continue developing the application.
+
